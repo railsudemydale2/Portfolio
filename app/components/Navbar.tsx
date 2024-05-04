@@ -34,7 +34,7 @@ export function Navbar() {
             <div className="col-span-6 flex md:col-span-3">
                 <Link href="/">
                     <h1 className="text-3xl font-semibold">
-                        Dale <span className="text-blue-500">Claude Stewart</span>
+                        Christy <span className="text-blue-500">Canyon</span>
                     </h1>
                 </Link>
             </div>
@@ -60,7 +60,7 @@ export function Navbar() {
 
             <div className="flex items-center justify-end md:col-span-3 col-span-6">
                 <Button className="hidden sm:flex" asChild>
-                    <a href="mailto:jan@alenix.de">Contact Me</a>
+                    <a href="mailto:canyonC@gmail.com">Contact Me</a>
                 </Button>
                 <div className="sm:hidden">
                     <MobileMenu />
